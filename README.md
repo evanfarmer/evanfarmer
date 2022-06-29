@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @evanfarmer
-- 👀 I’m interested in ... Persondal Development, and Crypto
 - 🌱 I’m currently learning ... Front End Web Development
 - 💞️ I’m looking to collaborate on ... Beginner Projects
 - 📫 How to reach me ... efarmer55@gmail.com
